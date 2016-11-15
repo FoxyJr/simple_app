@@ -4,10 +4,10 @@ Conception et développement d’une application web
 
 ##Team
 
-- min. 1 dev back : __ name 
-- min. 1 dev front : __ name 
-- min. 1 ui : __ name 
-- min. 1 ux : __ name
+- min. 1 dev back : Florian 
+- min. 1 dev front : Valentin 
+- min. 1 ui : Aurélien 
+- min. 1 ux : Allison
 
 ##Roadmap
 
